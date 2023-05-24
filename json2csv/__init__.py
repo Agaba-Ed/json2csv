@@ -1,1 +1,1 @@
-from json2csv import json2csv
+from .json2csv import json2csv
